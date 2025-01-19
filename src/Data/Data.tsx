@@ -69,6 +69,33 @@ const work = [
         "name": "Get Hired",
         "desc": "Connect with employers and start your new job."
     }
-]
-export { companies ,jobCategory ,work};
+];
+const testimonials = [
+    {
+        "name": "Hiruni Perera",
+        "testimonial": "This job portal made job search easy and quick. Recommended to all job seekers!",
+        "rating": 5,
+        "file": "avatar2"
+    },
+    {
+        "name": "Migara Jayasinghe",
+        "testimonial": "Found my dream job within a week! The application process was smooth.",
+        "rating": 5,
+        "file": "avatar"
+    },
+    {
+        "name": "Hansika Silva",
+        "testimonial": "I secured a job offer within days of applying. Exceptional user experience and support.",
+        "rating": 4,
+        "file": "avatar2"
+    },
+    {
+        "name": "Dilshan Silva",
+        "testimonial": "Highly efficient job portal with excellent resources. Helped me land a great position.",
+        "rating": 4,
+        "file": "avatar"
+    }
+];
+
+export { companies ,jobCategory ,work,testimonials};
 
