@@ -52,5 +52,23 @@ const jobCategory = [
         "jobs": "600"
     }
 ];
-export { companies ,jobCategory };
+
+const work = [
+    {
+        "file": "A",
+        "name": "Build Your Resume",
+        "desc": "Create a standout resume with your skills."
+    },
+    {
+        "file": "B",
+        "name": "Apply for Job",
+        "desc": "Find and apply for jobs that match your skills."
+    },
+    {
+        "file": "c",
+        "name": "Get Hired",
+        "desc": "Connect with employers and start your new job."
+    }
+]
+export { companies ,jobCategory ,work};
 
